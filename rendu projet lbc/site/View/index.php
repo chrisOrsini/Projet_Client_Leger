@@ -187,10 +187,10 @@ if(isset($_POST["recherche"])){
                                         <figure class="effect-text-in">
                                             <img src="../image/equipe/emmalou.jpg" alt="image" />
                                             <figcaption>
-                                                <h4 class="text-dark">Emma Lou</h4>
-                                                <p style="background-color: #DFD019">Developpeuse front-end <br>Depuis 2018 pour JALE
+                                                <h4 class="text-dark">Chris Koutsotsa</h4>
+                                                <p style="background-color: #DFD019">Developpeuse front-end <br>Depuis 2022 pour M2L
                                                     <br>
-                                                    Conctat : emmalou.villaret@edu.ece.fr</p>
+                                                    Conctat : chriskoutsotsa@gmail.com</p>
                                             </figcaption>
                                         </figure>
                                     </div>
