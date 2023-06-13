@@ -185,7 +185,7 @@ if(isset($_POST["recherche"])){
 
                                     <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-12">
                                         <figure class="effect-text-in">
-                                            <img src="../image/equipe/emmalou.jpg" alt="image" />
+                                            <img src="../image/equipe/chris.jpg" alt="image" />
                                             <figcaption>
                                                 <h4 class="text-dark">Chris Koutsotsa</h4>
                                                 <p style="background-color: #DFD019">Developpeuse front-end <br>Depuis 2022 pour M2L
